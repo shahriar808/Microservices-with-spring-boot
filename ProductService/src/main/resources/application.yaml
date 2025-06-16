@@ -12,7 +12,7 @@ spring:
       ddl-auto: update
     show-sql: true
   application:
-    name: PODUCT_SERVICE
+    name: PRODUCT-SERVICE
   config:
     import: "configserver:http://localhost:9296"
 
